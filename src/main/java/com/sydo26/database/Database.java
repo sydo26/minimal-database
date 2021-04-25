@@ -47,7 +47,7 @@ public class Database {
         }
     }
 
-    public void addTable(Schema schema) {
+    public void addSchema(Schema schema) {
         if (success) {
             this.schemas.put(schema.getSchemaName(), schema);
         }
