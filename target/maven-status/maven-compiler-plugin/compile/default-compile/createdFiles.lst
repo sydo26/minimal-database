@@ -1,0 +1,5 @@
+com\sydo26\database\Driver.class
+com\sydo26\database\Query.class
+com\sydo26\database\Database.class
+com\sydo26\database\Schema.class
+com\sydo26\database\Table.class
